@@ -1,5 +1,9 @@
 
-**You might check:**
+**You might check ⚡︎:**
+
+                     
+ ✘✘</br>
+ ⏝
 
 
 <tr>
@@ -19,7 +23,8 @@
 **MIT**
 #
 
-### Thanks To
+### Thanks To ⏝ ꦿ
+
 ```json
 https://github.com/animationbro
               &
