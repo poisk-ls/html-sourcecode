@@ -2,11 +2,11 @@
 
 
 
-### lincence
-**MT**
+### LICENSE
+**MIT**
 #
 
-### ctto
+### CTTO
 ```json
 https://github.com/animationbro
 ```
