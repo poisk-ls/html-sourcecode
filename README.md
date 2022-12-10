@@ -1,12 +1,16 @@
 
+**You might check:**
+https://github.com/bradtraversy/design-resources-for-developers
 
-
+#
 
 ### LICENSE
 **MIT**
 #
 
-### CTTO
+### Thanks To
 ```json
 https://github.com/animationbro
+              &
+https://github.com/bradtraversy
 ```
