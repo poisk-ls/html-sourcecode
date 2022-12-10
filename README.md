@@ -4,7 +4,7 @@
 
 <tr>
   <td>
-     ☞︎︎︎ <strong>design-resources-for-developers</strong>: <a href="https://github.com/bradtraversy/design-resources-for-developers">  <img align="center" src="https://img.shields.io/badge/design-resources-for-developers-12100E?style=flat&logo=html&logoColor=white"></a> 
+     ☞︎︎︎ <a href="https://github.com/bradtraversy/design-resources-for-developers">  <img align="center" src="https://img.shields.io/badge/design resources for developers-12100E?style=flat&logo=html&logoColor=white"></a> 
   </td>
    </tr>
 
