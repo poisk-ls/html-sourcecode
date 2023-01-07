@@ -33,4 +33,6 @@ https://github.com/animationbro
 https://github.com/bradtraversy
               &
 https://github.com/hernandoabella
+              &
+https://github.com/JS-Beginners
 ```
