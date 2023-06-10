@@ -27,12 +27,12 @@
 
 ### Thanks To ⏝ ꦿ
 
-```json
-https://github.com/animationbro
-              &
-https://github.com/bradtraversy
-              &
-https://github.com/hernandoabella
-              &
-https://github.com/JS-Beginners
-```
+
+<a href="https://github.com/animationbro">animationbro</a> <br>
+              
+<a href="https://github.com/bradtraversy">bradtraversy</a> <br>
+              
+<a href="https://github.com/hernandoabella">hernandoabella</a> <br>
+              
+<a href="https://github.com/JS-Beginners">JS-Beginners</a> <br>
+
